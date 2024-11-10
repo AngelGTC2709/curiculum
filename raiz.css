@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(197, 219, 246);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.img{
+    background-color: #b4c6f9;
+    width: 200px ;
+    padding: 20px;
+    text-align: left;
+}
+#id .cento{
+    text-align:left;
+}
+.area{
+    text-align: justify;
+}
+#id .centro{
+    text-align: center;
+} 
+.cuadro
+{
+    flex: 1;
+    background-position: 100px;
+    width: 300px;
+    height: 1000px;
+    border: 5px;
+}
+.marco{
+    display: flex;
+    gap: 20px;
+}
